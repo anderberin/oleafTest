@@ -1,2 +1,2 @@
 # oleafTest
-Test repository for Overleaf integration
+Test repository for Overleaf integration.
